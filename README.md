@@ -55,6 +55,8 @@
   </div>
 </details>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ieunune&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ieunune&show_icons=true&theme=dracula)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ieunune&layout=compact=count_private=true)
+<br/>
 ![Metrics](https://metrics.lecoq.io/ieunune?template=classic&config.timezone=Asia%2FSeoul&config.animated=true)
