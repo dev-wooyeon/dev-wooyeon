@@ -53,26 +53,30 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Hudson-00000F?style=flat-square&logo=hudson&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=Jenkins&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
 </p>
   
 <p align="center" display="inline-block">
 <b>IDE</b><br/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white">
 </p>
 
 <p align="center" display="inline-block">
 <b>협업 도구</b><br/>
-<img src="https://img.shields.io/badge/JIRA-1572B6.svg?style=flat-square&logo=JIRA&logoColor=white)">
-<img src="https://img.shields.io/badge/Confluence-1572B6.svg?style=flat-square&logo=Confluence&logoColor=white)">
-<img src="https://img.shields.io/badge/Slack-6f097a.svg?style=flat-square&logo=Slack&logoColor=white)">
+<img src="https://img.shields.io/badge/JIRA-1572B6.svg?style=flat-square&logo=JIRA&logoColor=white">
+<img src="https://img.shields.io/badge/Confluence-1572B6.svg?style=flat-square&logo=Confluence&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-6f097a.svg?style=flat-square&logo=Slack&logoColor=white">
 </p>
 
 <p align="center" display="inline-block">
 <b>형상 관리</b><br/>
-<img src="https://img.shields.io/badge/subversion-7ecbf2.svg?style=flat-square&logo=subversion&logoColor=white)">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)">
+<img src="https://img.shields.io/badge/subversion-7ecbf2.svg?style=flat-square&logo=subversion&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white">
 </p>
 
 <br>
