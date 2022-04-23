@@ -17,11 +17,11 @@
   
 <p align="center">
   <Strong>관심사</Strong><br>
-coding 🖥<br>
-tech news search 🔍<br>
-traveling ✈🚄<br>
-listening music 🎶<br>
-watching movie 🎬<br>
+🖥 Coding ⌨<br>
+🔍 Tech news search 📰 <br>
+✈ Traveling 🚄<br>
+🎶 Listening music 🎶<br>
+🎬 Watching movie 📽<br>
 </p>
 
 <br>
