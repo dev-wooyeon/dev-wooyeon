@@ -34,9 +34,7 @@
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### Dev Ops
-![Hudson](https://img.shields.io/badge/Hudson-00000F?style=flat-square&logo=hudson&logoColor=white)
+![Hudson](https://img.shields.io/badge/Hudson-00000F?style=flat-square&logo=Hudson&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
 ### IDE
