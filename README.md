@@ -28,6 +28,7 @@
 
 ### BE
 ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=black)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white)
