@@ -18,7 +18,7 @@
 <p align="center">
   <Strong>관심사</Strong><br>
 🖥 Coding ⌨<br>
-🔍 Tech news search 📰 <br>
+🔍 Tech news 📰 <br>
 ✈ Traveling 🚄<br>
 🎶 Listening music 🎶<br>
 🎬 Watching movie 📽<br>
