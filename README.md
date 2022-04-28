@@ -64,17 +64,27 @@
 </p>
   
 <p align="center" display="inline-block">
+<b>OS</b><br/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white">
+</p>
+  
+<p align="center" display="inline-block">
 <b>IDE</b><br/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white">
 </p>
 
 <p align="center" display="inline-block">
 <b>협업 도구</b><br/>
+<img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Gsuite-4285F4.svg?style=flat-square&logo=GoogleChrome&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-6f097a.svg?style=flat-square&logo=Slack&logoColor=white">
+<br/>
 <img src="https://img.shields.io/badge/JIRA-1572B6.svg?style=flat-square&logo=JIRA&logoColor=white">
 <img src="https://img.shields.io/badge/Confluence-1572B6.svg?style=flat-square&logo=Confluence&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-6f097a.svg?style=flat-square&logo=Slack&logoColor=white">
 </p>
 
 <p align="center" display="inline-block">
