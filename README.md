@@ -62,20 +62,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 </p>
-  
-<p align="center" display="inline-block">
-<b>OS</b><br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white">
-</p>
-  
-<p align="center" display="inline-block">
-<b>IDE</b><br/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white">
-</p>
 
 <p align="center" display="inline-block">
 <b>협업 도구</b><br/>
