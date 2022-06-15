@@ -42,9 +42,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-<br>
+<!-- <br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=AntDesign&logoColor=white">
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=AntDesign&logoColor=white"> -->
 </p>
   
 <p align="center" display="inline-block">
@@ -58,9 +58,9 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Hudson-00000F?style=flat-square&logo=hudson&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=Jenkins&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<!-- <br> -->
+<!-- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> -->
 </p>
 
 <p align="center" display="inline-block">
