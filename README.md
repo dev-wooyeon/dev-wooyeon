@@ -17,10 +17,8 @@
   
 <p align="center">
   <Strong>관심사</Strong><br>
-🖥 Coding ⌨<br>
-🔍 Tech news 📰 <br>
+🖥 Code Convention ⌨<br>
 ✈ Traveling 🚄<br>
-🎶 Listening music 🎶<br>
 🎬 Watching movie 📽<br>
 </p>
 
@@ -74,7 +72,7 @@
 <br>
 
 <p align="center" display="inline-block">
-<b>😮이런 것도 할 수 있어요.</b><br/>
+<b>😮 이런 것도 할 수 있어요.</b><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black">
 <img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white">
