@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2b45ed&height=200&section=header&text=Hello%20&fontSize=65&animation=fadeIn&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2b45ed&height=200&section=header&text=👋%20Hello%20&fontSize=65&animation=fadeIn&fontColor=FFFFFF)
 
 <p align="center">
-👋 안녕하세요.<br>
 🙇‍♂️ 개발자 박은우 입니다.<br>
 🌱 늘 새싹처럼 성장하고 싶습니다.<br>
 </p>
@@ -26,7 +25,7 @@
 
   
 <p align="center">
-    <Strong>풀스택 개발자 기술스택</Strong><br>
+    <Strong>기술스택</Strong><br>
 </p>
   
 <p align="center" display="inline-block">
