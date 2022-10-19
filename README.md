@@ -55,9 +55,9 @@
 
 <b>😮 이런 것도 할 수 있어요.</b><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black">
-<img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">  
+<!--<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black">-->
+<!--<img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"> -->
+<!--<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> -->
 
