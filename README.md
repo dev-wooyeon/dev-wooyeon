@@ -62,7 +62,7 @@
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> -->
 
 📞 Connect with me  
-[![email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:qkrqja9706@gmail.com)
+[![email](https://img.shields.io/badge/Mail-FEE500?style=flat-square&logo=Kakaotalk&logoColor=white)](mailto:une@kakao.com)
 
 <a href="https://opgc.me/#/users/ieunune" target="_blank"><img src="https://api.opgc.me/githubs/users/ieunune/tag/?theme=basic" /></a>
 <!-- 
