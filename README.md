@@ -5,9 +5,10 @@
 
 <br>
 
-<Strong>📃 이력서<Strong><br>
+<Strong>📃 이력서<Strong>
+<br>
 <a href="https://military-diadem-6f0.notion.site/5c39df8a85044efeae1a47b1bd42421f">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
 </a>
 
 <br>
