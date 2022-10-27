@@ -3,29 +3,20 @@
 <br>
 🙇‍♂️ 개발자 박은우 입니다. 
 
-<br>
-
-<Strong>📃 이력서<Strong>
-<br>
+## <Strong>📃 이력서<Strong>
 <a href="https://military-diadem-6f0.notion.site/5c39df8a85044efeae1a47b1bd42421f">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
 </a>
 
-<br>
-
-<Strong>🎤 인터뷰<Strong><br>
+## <Strong>🎤 인터뷰<Strong>
 <a href="https://www.jobkorea.co.kr/starter/interview/View/21592" target="_blank">엑심베이 개발자 인터뷰</a>
-
-<br>
   
-  <Strong>🧐 관심사</Strong><br>
-    Coding Convention<br>
-    Traveling<br>
-    Watching movie<br>
+## <Strong>🧐 관심사</Strong>
+  Coding Convention  
+  Traveling  
+  Watching movie
 
-<br>
-
-<Strong>⚙ 기술스택</Strong><br>
+## <Strong>⚙ 기술스택</Strong>
 
 <b>FE</b><br/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black">
@@ -62,16 +53,13 @@
 <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white">
 </p>
 
-<b>😮 이런 것도 할 수 있어요.</b><br/>
+### <strong>😮 이런 것도 할 수 있어요.</strong>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <!--<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black">-->
 <!--<img src="https://img.shields.io/badge/Redux-Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white"> -->
 <!--<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> -->
-
-📞 Connect with me  
-[![email](https://img.shields.io/badge/Mail-FEE500?style=flat-square&logo=Kakaotalk&logoColor=191919)](mailto:une@kakao.com)
 
 ##
 <a href="https://opgc.me/#/users/ieunune" target="_blank"><img src="https://api.opgc.me/githubs/users/ieunune/tag/?theme=basic" /></a>
@@ -81,3 +69,7 @@
 -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fieunune&count_bg=%23707070&title_bg=%23000000&icon=digitalocean.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  
+### 📞 Connect with me  
+[![email](https://img.shields.io/badge/Mail-FEE500?style=flat-square&logo=Kakaotalk&logoColor=191919)](mailto:une@kakao.com)
