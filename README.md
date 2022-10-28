@@ -13,6 +13,7 @@
   
 ## <Strong>🧐 관심사</Strong>
   Coding Convention  
+  TDD
   Traveling  
   Watching movie
 
