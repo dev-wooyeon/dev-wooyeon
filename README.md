@@ -1,4 +1,4 @@
-## <em>Want to be a selective person.</em>
+## <em>Want to be an optional developer.</em>
 👋 안녕하세요.
 <br>
 🙇‍♂️ 개발자 박은우 입니다. 
