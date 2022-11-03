@@ -69,7 +69,7 @@
 <br/> ![Metrics](https://metrics.lecoq.io/ieunune?template=classic&config.timezone=Asia%2FSeoul&config.animated=true)
 -->
   
-<!-- ### 📞 Connect with me  
+<!-- ### 📞 Connect with me
 [![email](https://img.shields.io/badge/Mail-FEE500?style=flat-square&logo=Kakaotalk&logoColor=191919)](mailto:une@kakao.com) -->
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fieunune&count_bg=%23707070&title_bg=%23000000&icon=digitalocean.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
