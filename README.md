@@ -2,6 +2,10 @@
 👋 안녕하세요.
 <br>
 🙇‍♂️ 개발자 박은우 입니다. 
+<br>
+📚 알면 내 마음대로 할 수 있다는 것을 알기에 배움을 즐깁니다.
+<br>
+🧐 클린코드와 코드 컨벤션에 대한 고민을 생활화 합니다.
 
 ## <Strong>📃 이력서<Strong>
 <a href="https://military-diadem-6f0.notion.site/5c39df8a85044efeae1a47b1bd42421f">
@@ -12,10 +16,7 @@
 <a href="https://www.jobkorea.co.kr/starter/interview/View/21592" target="_blank">엑심베이 개발자 인터뷰</a>
   
 ## <Strong>🧐 관심사</Strong>
-  Coding Convention  
   TDD  
-  Traveling  
-  Watching movie
 
 ## <Strong>⚙ 기술스택</Strong>
 
