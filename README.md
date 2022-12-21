@@ -9,7 +9,7 @@
 
 ## <Strong>📃 이력서<Strong>
 <a href="https://military-diadem-6f0.notion.site/5c39df8a85044efeae1a47b1bd42421f">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </a>
 
 ## <Strong>🎤 인터뷰<Strong> 
@@ -21,38 +21,37 @@
 ## <Strong>⚙ 기술스택</Strong>
 
 <b>FE</b><br/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=black">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 <!-- <br>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=AntDesign&logoColor=white"> -->
   
 <b>BE</b><br/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=black">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Hudson-00000F?style=flat-square&logo=hudson&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Hudson-00000F?style=for-the-badge&logo=hudson&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=Jenkins&logoColor=white">
 
 <b>협업 도구</b><br/>
-<img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Gsuite-4285F4.svg?style=flat-square&logo=GoogleChrome&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-6f097a.svg?style=flat-square&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Gsuite-4285F4.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-6f097a.svg?style=for-the-badge&logo=Slack&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/JIRA-1572B6.svg?style=flat-square&logo=JIRA&logoColor=white">
-<img src="https://img.shields.io/badge/Confluence-1572B6.svg?style=flat-square&logo=Confluence&logoColor=white">
+<img src="https://img.shields.io/badge/JIRA-1572B6.svg?style=for-the-badge&logo=JIRA&logoColor=white">
+<img src="https://img.shields.io/badge/Confluence-1572B6.svg?style=for-the-badge&logo=Confluence&logoColor=white">
 </p>
 
 <b>형상 관리</b><br/>
-<img src="https://img.shields.io/badge/subversion-7ecbf2.svg?style=flat-square&logo=subversion&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/subversion-7ecbf2.svg?style=for-the-badge&logo=subversion&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ### <strong>😮 이런 것도 할 수 있어요.</strong>
