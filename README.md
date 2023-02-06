@@ -23,11 +23,3 @@
 💼 Experience
 - EXIMBAY - Software Developer (Dec 2019 ~ PRESENT)
 --- 
-
-
-<!-- 
-<a href="https://opgc.me/#/users/ieunune" target="_blank"><img src="https://api.opgc.me/githubs/users/ieunune/tag/?theme=basic" /></a>
-<br/> ![GitHub status](https://github-readme-stats.vercel.app/api?username=ieunune&show_icons=true)
-<br/> ![Metrics](https://metrics.lecoq.io/ieunune?template=classic&config.timezone=Asia%2FSeoul&config.animated=true)
--->
-  
