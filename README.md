@@ -11,6 +11,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1677042177233?alt=media&token=bf125184-1907-459b-9269-dd30a612f422)](https://github.com/msdio/stackticon)
+
 ---
 
 💁🏻‍♂️ Brief
