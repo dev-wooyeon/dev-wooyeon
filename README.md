@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 
----
+---  
 
 💁🏻‍♂️ Brief
 - 👋 안녕하세요.  
@@ -23,4 +23,11 @@
 
 💼 Experience
 - EXIMBAY - Software Developer (Dec 2019 ~ Mar 2023)
+
 --- 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ieunune&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ieunune&theme=flat&column=6)](https://github.com/ieunune/)
