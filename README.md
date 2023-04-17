@@ -22,7 +22,8 @@
 - 백엔드 개발자로 근무하고 있고 주력 언어는 Java를 사용합니다.
 
 💼 Experience
-- EXIMBAY - Software Developer (Dec 2019 ~ Mar 2023)
+- MONOLITH : BackEnd Developer (Apr 2023 ~ current)
+- EXIMBAY : Software Developer (Dec 2019 ~ Mar 2023)
 
 --- 
 
