@@ -27,7 +27,7 @@
 - 클린코드에 대해서 고민하고 있습니다.
 
 💼 Experience
-- MONOLITH : BackEnd Developer (Apr 2023 ~ current)
+- Monolith : BackEnd Developer (Apr 2023 ~ current)
 - EXIMBAY : Software Developer (Dec 2019 ~ Mar 2023)
 
 --- 
