@@ -20,13 +20,13 @@
 
 ---  
 
-`💁🏻‍♂️ Brief`
+**`💁🏻‍♂️ Brief`**
 - 👋 도전하고 성장하는 개발자 박은우 입니다.  
 - 배움은 선택의 폭을 넓힐 수 있다는 것을 알기에 즐깁니다.  
 - 백엔드 개발자로 근무하고 있고 주력 언어는 Java를 사용합니다.  
 - 객체지향에 대해서 학습을 진행하고 있습니다.
 
-`💼 Experience`  
+**`💼 Experience`**
 - Monolith : BackEnd Developer  (Apr 2023 ~ current)  
 - Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)  
 
