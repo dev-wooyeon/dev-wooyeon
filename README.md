@@ -4,6 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fieunune&count_bg=%23707070&title_bg=%23000000&icon=digitalocean.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Resume](https://img.shields.io/badge/Resume-black?style=flat-square&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62)
+[![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=tistory&logoColor=white)](https://96brain-tistory.com/category)
 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
