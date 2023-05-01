@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fieunune&count_bg=%23707070&title_bg=%23000000&icon=digitalocean.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Resume](https://img.shields.io/badge/Resume-black?style=flat-square&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62)
-[![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=tistory&logoColor=white)](https://96brain-tistory.com/category)
+[![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=tistory&logoColor=white)](https://96-brain.tistory.com/category)
 
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
@@ -15,9 +15,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) -->
-<!-- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white) -->
 
 ---  
 
@@ -32,8 +29,3 @@
 - Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)  
 
 --- 
-
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ieunune&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ieunune&theme=flat&column=6)](https://github.com/ieunune/) -->
