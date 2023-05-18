@@ -6,7 +6,6 @@
 [![Resume](https://img.shields.io/badge/Resume-black?style=flat-square&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62)
 [![Blog](https://img.shields.io/badge/Blog-black?style=flat-square&logo=velog&logoColor=white)](https://96-brain.tistory.com/category)
 
-
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
@@ -28,4 +27,8 @@
 - Monolith : BackEnd Developer  (Apr 2023 ~ current)  
 - Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)  
 
---- 
+**`🏆 Challenge`**
+- [Today I Learn](https://github.com/noah-personal-learning)
+- [Group Study (Gro-w-up)](https://github.com/gro-w-up)
+
+---
