@@ -4,7 +4,8 @@
 
 **`💁🏻‍♂️ Brief`**
 
-- 안녕하세요. 도전하고 성장하는 개발자 박은우입니다.  
+- 안녕하세요. 
+- 도전하고 성장하는 개발자 박은우입니다.  
 - 배움은 선택의 폭을 넓힐 수 있다는 것을 알기에 즐깁니다.  
 - 백엔드 개발자로 근무하고 있고 주력 언어는 Java를 사용합니다.  
 - 객체지향에 대해서 학습하고 있습니다.
@@ -30,8 +31,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 
-`Sub`
+`Sub`  
 
+![Python](https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
