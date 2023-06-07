@@ -17,7 +17,8 @@
 **`🧐 Ref.`**  
 
 [![Resume](https://img.shields.io/badge/Resume-black?style=flat-square&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62)
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white)](https://96-brain.tistory.com/category)
+[![velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ieunune)
+[![Legacy-Blog](https://img.shields.io/badge/Tistory-20C997?style=flat-square&logo=tistory&logoColor=white)](https://96-brain.tistory.com/category)
 
 ---
 
