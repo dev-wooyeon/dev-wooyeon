@@ -41,8 +41,8 @@
 
 ---
 **`🏆 Challenge`**
-- [Today I Learn](https://github.com/noah-personal-learning)
-- [Group Study (Gro-w-up)](https://github.com/gro-w-up)
+- [개인 학습 프로젝트](https://github.com/noah-personal-learning)
+- [그룹 스터디 'Gro-w-up'](https://github.com/gro-w-up)
 
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fieunune&count_bg=%23707070&title_bg=%23000000&icon=digitalocean.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
