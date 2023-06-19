@@ -41,17 +41,25 @@
       <br>MySQL
     </td>    
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
       <br>MongoDB
     </td>    
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="40" height="40" />
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="40" height="40" />
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="40" height="40" />
       <br>Linux
-    </td>   
+    </td> 
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="40" height="40" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" alt="icon" width="40" height="40" />
+      <br>Kafka
+    </td>
   </tr>
 </table>
 
