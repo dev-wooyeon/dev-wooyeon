@@ -4,11 +4,11 @@
 
 **`💁🏻‍♂️ Brief`**
 
-- 안녕하세요. 
-- 도전하고 성장하는 개발자 박은우입니다.  
-- 배움은 선택의 폭을 넓힐 수 있다는 것을 알기에 즐깁니다.  
-- 백엔드 개발자로 근무하고 있고 주력 언어는 Java를 사용합니다.  
-- 요즘 저는, 객체지향에 대해서 관심이 많습니다.
+- 👋 Hi, I'm Noah(Eunwoo Park).
+- Working as a junior-level Back-end Engineer
+- Mainly using Java, and Recently studying **object orientation**
+- I think developers should be able to make good choices.
+- So, I try to have ability to make many choices while enjoying learning.
 
 **`💼 Experience`**
 - Monolith : BackEnd Developer  (Apr 2023 ~ current)  
@@ -79,5 +79,5 @@
 
 ---
 **`🏆 Challenge`**
-- [개인 학습 프로젝트](https://github.com/noah-personal-learning)
-- [그룹 스터디 'Gro-w-up'](https://github.com/gro-w-up)
+- [TIL(Today I Learn)](https://github.com/noah-personal-learning)
+- ['Gro-w-up'(Group Study)](https://github.com/gro-w-up)
