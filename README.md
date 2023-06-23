@@ -5,13 +5,13 @@
 **`💁🏻‍♂️ Brief`**
 
 - 👋 Hi, I'm Noah(Eunwoo Park).
-- Working as a junior-level Back-end Engineer
+- Working as a Back-end Engineer
 - Mainly using Java, and Recently studying **object orientation**
 - I think developers should be able to make good choices.
 - So, I try to have ability to make many choices while enjoying learning.
 
 **`💼 Experience`**
-- Monolith : BackEnd Developer  (Apr 2023 ~ current)  
+- Monolith : Back-end Engineer  (Apr 2023 ~ current)  
 - Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)  
 
 **`🧐 Ref.`**  
