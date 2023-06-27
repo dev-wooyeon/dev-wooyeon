@@ -16,9 +16,9 @@
 
 **`🧐 Ref.`**  
 
-[![Resume](https://img.shields.io/badge/Resume-black?style=social&logo=notion&Lists&logoColor=black)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62)
-[![velog](https://img.shields.io/badge/Velog-20C997?style=social&logo=velog&logoColor=black)](https://velog.io/@ieunune)
-[![Legacy-Blog](https://img.shields.io/badge/Tstory-black?style=social&logo=tistory&logoColor=black)](https://96-brain.tistory.com/category)
+[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62)
+[![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ieunune)
+[![Legacy-Blog](https://img.shields.io/badge/Tstory-black?style=for-the-badge&logo=tistory&logoColor=white)](https://96-brain.tistory.com/category)
 
 ---
 
