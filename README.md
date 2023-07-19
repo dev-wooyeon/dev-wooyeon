@@ -11,8 +11,9 @@
 - So, I try to have ability to make many choices while enjoying learning.
 
 **`💼 Experience`**
-- Monolith : Back-end Engineer  (Apr 2023 ~ current)  
-- Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)  
+
+- 🎮 Monolith : Back-end Engineer  (Apr 2023 ~ current)  
+- 💳 Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)  
 
 **`🧐 Ref.`**  
 
