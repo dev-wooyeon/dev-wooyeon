@@ -2,19 +2,19 @@
 
 ---  
 
-**`💁🏻‍♂️ Brief`**
+**`💁🏻‍♂️ 소개`**
 
 - 안녕하세요. 백엔드 엔지니어 노아입니다.
-- 주력으로 자바를 사용하고 있고, 최근에는 객체지향에 관심이 많습니다.
+- 주력 언어로는 자바를 사용하고 있고, 최근에는 객체지향에 관심이 많습니다.
 - 휼륭한 엔지니어는 좋은 선택을 할 수 있어야한다고 생각합니다.
 - 그래서, 저는 선택의 폭을 넓히기 위해 배움을 즐깁니다.
 
-**`💼 Experience`**
+**`💼 경력`**
 
-- 🎮 Monolith : Back-end Engineer  (Apr 2023 ~ current)  
-- 💳 Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)  
+- 現 모노리스 백엔드 엔지니어
+- 前 엑심베이 소프트웨어 개발자
 
-**`🧐 Ref.`**  
+**`🧐 참고`**  
 | Link | 이름 | 설명 |
 | :----: |-----| ----|
 | [![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62) | 이력서 | 노션으로 작성된 개인 이력서 |
@@ -24,9 +24,9 @@
 
 ---
 
-**`🚀 Skills`**
+**`🚀 사용 기술`**
 
-`Main`
+`메인`
 
 <table>
   <tr>
@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-`Sub`  
+`서브`  
 <table>
   <tr>
     <td align="center" width="96">
@@ -80,7 +80,7 @@
 </table>
 
 ---
-**`🏆 Challenge`**
+**`🏆 도전`**
 | Link | 이름 | 설명 |
 | ---- |-----| ----|
 | [Today I Learn](https://github.com/noah-personal-learning) | TIL | 배운 내용을 기록 | 
