@@ -77,7 +77,7 @@
 </table>
 
 ---
-**`🌀 가지가지`**
+**`🌀 더보기`**
 | Link | 이름 | 설명 |
 | ---- |-----| ----|
 | [Today I Learn](https://github.com/noah-personal-learning) | TIL | 노는 코드 분리 | 
