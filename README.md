@@ -4,11 +4,10 @@
 
 **`💁🏻‍♂️ Brief`**
 
-- 👋 Hi, I'm Noah(Eunwoo Park).
-- Working as a Back-end Engineer
-- Mainly using Java, and Recently studying **object orientation**
-- I think developers should be able to make good choices.
-- So, I try to have ability to make many choices while enjoying learning.
+- 안녕하세요. 백엔드 엔지니어 노아입니다.
+- 주력으로 자바를 사용하고 있고, 최근에는 객체지향에 관심이 많습니다.
+- 휼륭한 엔지니어는 좋은 선택을 할 수 있어야한다고 생각합니다.
+- 그래서, 저는 선택의 폭을 넓히기 위해 배움을 즐깁니다.
 
 **`💼 Experience`**
 
@@ -16,9 +15,10 @@
 - 💳 Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)  
 
 **`🧐 Ref.`**  
-
-[![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62)
-[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=vercel&logoColor=white)](https://notion-blog-ieunune.vercel.app) 
+| Link | 이름 | 설명 |
+| :----: |-----| ----|
+| [![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62) | 이력서 | 노션으로 작성된 개인 이력서 |
+| [![Devlog](https://img.shields.io/badge/Devlog-black?style=for-the-badge&logo=vercel&logoColor=white)](https://notion-blog-ieunune.vercel.app) | 블로그 | 개발 관련된 내용을 저장하는 블로그 |
 <!-- [![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ieunune)
 [![Legacy-Blog](https://img.shields.io/badge/Tstory-black?style=for-the-badge&logo=tistory&logoColor=white)](https://96-brain.tistory.com/category) -->
 
