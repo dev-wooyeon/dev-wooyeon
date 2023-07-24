@@ -81,5 +81,7 @@
 
 ---
 **`🏆 Challenge`**
-- [TIL(Today I Learn)](https://github.com/noah-personal-learning)
-- ['Gro-w-up'(Group Study)](https://github.com/gro-w-up)
+| Link | 이름 | 설명 |
+| ---- |-----| ----|
+| [Today I Learn](https://github.com/noah-personal-learning) | TIL | 배운 내용을 기록 | 
+| [Gro-w-up](https://github.com/gro-w-up) | Gro-w-up | 스터디 그룹원들의 프로젝트를 관리 | 
