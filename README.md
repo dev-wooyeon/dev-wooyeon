@@ -3,7 +3,7 @@
 ---  
 
 **`💁🏻‍♂️ 소개`**
-- 안녕하세요. 백엔드 엔지니어 노아입니다. 
+- 안녕하세요, 노아입니다. 
 - 훌륭한 엔지니어는 좋은 선택을 할 수 있어야 한다고 생각합니다.
 - 그래서, 저는 좋은 선택을 하기 위해 배움을 즐깁니다.
 
@@ -14,8 +14,8 @@
 **`🧐 참고`**  
 | Link | 이름 | 설명 |
 | :----: |-----| ----|
-| [![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62) | 이력서 | 노션으로 작성된 개인 이력서 |
-| [![Devlog](https://img.shields.io/badge/Devlog-black?style=for-the-badge&logo=vercel&logoColor=white)](https://notion-blog-ieunune.vercel.app) | 블로그 | 개발 관련된 내용을 저장하는 블로그 |
+| [![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62) | 이력서 | 제가 궁금하시다면 눌러주세요. |
+| [![Devlog](https://img.shields.io/badge/Devlog-black?style=for-the-badge&logo=vercel&logoColor=white)](https://notion-blog-ieunune.vercel.app) | 블로그 | 무엇을 고민하는지 볼 수 있습니다. |
 <!-- [![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ieunune)
 [![Legacy-Blog](https://img.shields.io/badge/Tstory-black?style=for-the-badge&logo=tistory&logoColor=white)](https://96-brain.tistory.com/category) -->
 
@@ -80,5 +80,5 @@
 **`🌀 더보기`**
 | Link | 이름 | 설명 |
 | ---- |-----| ----|
-| [Today I Learn](https://github.com/noah-personal-learning) | TIL | 노는 코드 분리 | 
-| [Gro-w-up](https://github.com/gro-w-up) | Gro-w-up | 스터디 그룹원들의 프로젝트를 관리 | 
+| [Today I Learn](https://github.com/noah-personal-learning) | TIL | 가노는 코드 분리 | 
+| [Gro-w-up](https://github.com/gro-w-up) | Gro-w-up | 스터디 프로젝트 관리 | 
