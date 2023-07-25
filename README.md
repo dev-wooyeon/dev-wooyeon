@@ -83,5 +83,5 @@
 **`🌀 더보기`**
 | Link | 이름 | 설명 |
 | ---- |-----| ----|
-| [Today I Learn](https://github.com/noah-personal-learning) | TIL | 가노는 코드 분리 | 
+| [Today I Learn](https://github.com/noah-personal-learning) | TIL | 노는 코드 분리 | 
 | [Gro-w-up](https://github.com/gro-w-up) | Gro-w-up | 스터디 프로젝트 관리 | 
