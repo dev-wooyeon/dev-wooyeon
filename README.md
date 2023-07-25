@@ -1,4 +1,7 @@
-![ghipy](https://user-images.githubusercontent.com/50124623/210032601-e6e9eb8c-8cbf-4b3a-8257-932e39d5ae31.gif)
+<!-- ![ghipy](https://user-images.githubusercontent.com/50124623/210032601-e6e9eb8c-8cbf-4b3a-8257-932e39d5ae31.gif)  -->
+<div align=center>
+  <img src="https://github.com/ieunune/ieunune/assets/50124623/b16ffdb9-732d-457d-b6c3-a931af588377" height="280px"/>
+</div>
 
 ---  
 
