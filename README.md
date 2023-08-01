@@ -16,8 +16,8 @@
 **`🧐 참고`**  
 | Link | 이름 | 설명 |
 | :----: |-----| ----|
-| [![Resume](https://img.shields.io/badge/Resume-4682D4?style=for-the-badge&logo=GitHubSponsors&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62) | 이력서 | 제가 궁금하시다면 눌러주세요. |
-| [![Devlog](https://img.shields.io/badge/Devlog-4682D4?style=for-the-badge&logo=vercel&logoColor=white)](https://notion-blog-ieunune.vercel.app) | 블로그 | 무엇을 고민하는지 볼 수 있습니다. |
+| [![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=GitHubSponsors&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62) | 이력서 | 제가 궁금하시다면 눌러주세요. |
+| [![Devlog](https://img.shields.io/badge/Devlog-black?style=for-the-badge&logo=vercel&logoColor=white)](https://notion-blog-ieunune.vercel.app) | 블로그 | 무엇을 고민하는지 볼 수 있습니다. |
 
 ---
 
