@@ -1,26 +1,23 @@
-<!-- ![ghipy](https://user-images.githubusercontent.com/50124623/210032601-e6e9eb8c-8cbf-4b3a-8257-932e39d5ae31.gif)  -->
 <div align=center>
-  <img src="https://github.com/ieunune/ieunune/assets/50124623/b16ffdb9-732d-457d-b6c3-a931af588377" height="280px"/>
+  <img src="https://user-images.githubusercontent.com/50124623/210032601-e6e9eb8c-8cbf-4b3a-8257-932e39d5ae31.gif"/>
 </div>
 
 ---  
 
 **`💁🏻‍♂️ 소개`**
-- 안녕하세요, 노아입니다. 
+- 안녕하세요. 노아입니다. 
 - 훌륭한 엔지니어는 좋은 선택을 할 수 있어야 한다고 생각합니다.
 - 그래서, 저는 좋은 선택을 하기 위해 배움을 즐깁니다.
 
 **`💼 경력`**
-- 現 모노리스 백엔드 엔지니어 (2023.04 -)
-- 前 엑심베이 소프트웨어 개발자 (3년 4개월)
+- 現 모노리스 백엔드 엔지니어 (23.04 ~ 현재)
+- 前 엑심베이 소프트웨어 개발자 (19.12 ~ 23.03, 3년 4개월)
 
 **`🧐 참고`**  
 | Link | 이름 | 설명 |
 | :----: |-----| ----|
-| [![Resume](https://img.shields.io/badge/Resume-black?style=for-the-badge&logo=notion&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62) | 이력서 | 제가 궁금하시다면 눌러주세요. |
-| [![Devlog](https://img.shields.io/badge/Devlog-black?style=for-the-badge&logo=vercel&logoColor=white)](https://notion-blog-ieunune.vercel.app) | 블로그 | 무엇을 고민하는지 볼 수 있습니다. |
-<!-- [![velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@ieunune)
-[![Legacy-Blog](https://img.shields.io/badge/Tstory-black?style=for-the-badge&logo=tistory&logoColor=white)](https://96-brain.tistory.com/category) -->
+| [![Resume](https://img.shields.io/badge/Resume-4682D4?style=for-the-badge&logo=GitHubSponsors&Lists&logoColor=white)](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62) | 이력서 | 제가 궁금하시다면 눌러주세요. |
+| [![Devlog](https://img.shields.io/badge/Devlog-4682D4?style=for-the-badge&logo=vercel&logoColor=white)](https://notion-blog-ieunune.vercel.app) | 블로그 | 무엇을 고민하는지 볼 수 있습니다. |
 
 ---
 
