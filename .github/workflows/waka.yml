@@ -18,6 +18,7 @@ jobs:
           # content
           BLOCKS: "░▒▓█"
           LOCALE: "ko"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_TIME: "False"
           SHOW_LINES_OF_CODE: "False"
