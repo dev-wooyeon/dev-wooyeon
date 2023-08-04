@@ -13,7 +13,12 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # meta
+          API_BASE_URL: https://wakatime.com/api
+          REPOSITORY: ieunune/ieunune
+          # content
           LOCALE: "ko"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
@@ -22,3 +27,11 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROJECTS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
+          # commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.org
+          AUTHOR_NAME: Noah
+          AUTHOR_EMAIL: dev.haon@gmail.com
