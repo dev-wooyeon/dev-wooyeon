@@ -7,5 +7,5 @@
 
 📈 **깃허브 주요 활동**
 
-![ieunune GitHub Stats](https://stats.hyochan.dev/api/github-stats-advanced?login=ieunune)
+![ieunune GitHub Stats](https://stats.hyochan.dev/api/github-stats-advanced?logdin=ieunune)
 ![ieunune GitHub Trophies](https://stats.hyochan.dev/api/github-trophies?login=ieunune)
