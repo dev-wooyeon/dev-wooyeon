@@ -38,7 +38,9 @@ Mac                      1 hr 6 mins         ███████████�
 
 <!--END_SECTION:waka-->
 
+<!--
 📈 **깃허브 주요 활동**
 
 ![ieunune github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ieunune) 
 ![ieunune github-trophies](https://stats.dooboo.io/api/github-trophies?login=ieunune)
+-->
