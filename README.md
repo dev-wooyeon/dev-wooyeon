@@ -4,7 +4,7 @@
 
 ---
 
-📊 **실시간 트래킹 코딩타임**
+📊 **실시간 트래킹 코딩타임: 23년 8월 4일 부터**  
 
 [![wakatime](https://wakatime.com/badge/user/099dd627-fdab-4072-b87a-fa91c7a76d8d.svg?style=for-the-badge)](https://wakatime.com/@099dd627-fdab-4072-b87a-fa91c7a76d8d)
 
