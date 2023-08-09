@@ -4,6 +4,12 @@
 
 ---
 
+📊 **실시간 트래킹 코딩타임**
+
+[![wakatime](https://wakatime.com/badge/user/099dd627-fdab-4072-b87a-fa91c7a76d8d.svg?style=for-the-badge)](https://wakatime.com/@099dd627-fdab-4072-b87a-fa91c7a76d8d)
+
+📊 **주간 트래킹 코딩타임: 최근 7일간 통계**
+
 <!--START_SECTION:waka-->
 
 ```txt
