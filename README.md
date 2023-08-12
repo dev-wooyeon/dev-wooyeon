@@ -22,4 +22,4 @@ CSV file           44 mins         █▒░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![](./profile-3d-contrib/profile-night-view.svg)
+<!-- ![](./profile-3d-contrib/profile-night-view.svg)-->
