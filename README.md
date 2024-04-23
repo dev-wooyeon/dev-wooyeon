@@ -3,7 +3,7 @@
 제 [주인님](https://www.instagram.com/lovely_hiru_hari_s2/)도 보고 가세요.
 
 
-📊 **실시간 트래킹 코딩타임: 23년 8월 4일 부터**  
+📊 **트래킹 코딩타임: 23년 8월 4일 부터**  
 
 [![wakatime](https://wakatime.com/badge/user/099dd627-fdab-4072-b87a-fa91c7a76d8d.svg?style=for-the-badge)](https://wakatime.com/@099dd627-fdab-4072-b87a-fa91c7a76d8d)
 
