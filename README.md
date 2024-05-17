@@ -1,11 +1,10 @@
-# READ ME
+## READ ME
 
 **`👩🏻‍💻 Brief`**  
 
 - Hello, I'm [박은우](https://dev-wooyeon.github.io/quiz-app/)
 - My Resume is here 👉 [RESUME](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62)
 - My Blog is here 👉 [BLOG](https://notion-blog-ieunune.vercel.app)
-- My Cat [주인님](https://www.instagram.com/lovely_hiru_hari_s2/)도 보고 가세요.
 
 **`💼 Experience`**
 
@@ -14,8 +13,8 @@
 
 **`🔭 Repository`**
 
-- [그룹스터디 저장소](https://github.com/gro-w-up)
-- [개인 학습용 코드 저장소](https://github.com/noah-personal-learning)
+- [Group Study](https://github.com/gro-w-up)
+- [Personal Learning](https://github.com/noah-personal-learning)
 
 **`🌱 Skills`**  
 
@@ -23,11 +22,11 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-**`📊 트래킹 코딩타임: 23년 8월 4일 부터`**  
+**`📊 Tracking Coding Time: Since. 2023.08.04`**  
 
 [![wakatime](https://wakatime.com/badge/user/099dd627-fdab-4072-b87a-fa91c7a76d8d.svg?style=for-the-badge)](https://wakatime.com/@099dd627-fdab-4072-b87a-fa91c7a76d8d)
 
-**`📊 주간 트래킹 코딩타임: 최근 7일간 통계`**
+**`📊 Weekly Tracking Coding Time: Statistics for the Last 7 Days`**
 
 <!--START_SECTION:waka-->
 
