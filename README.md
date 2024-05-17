@@ -2,8 +2,8 @@
 
 **`👩🏻‍💻 Brief`**  
 
-- Hello, I'm [박은우](https://dev-wooyeon.github.io/quiz-app/)
-- My Resume is here 👉 [RESUME](https://ieunune.notion.site/d836ecc9172144d4b39f185b89f16a62)
+- Hello, I'm [Eunwoo Park](https://dev-wooyeon.github.io/quiz-app/) and my nickname is wooyeon.
+- My Resume is here 👉 [RESUME](https://ieunune.notion.site/28-88178b31333b4be7b8b9821a7232e73c?pvs=4)
 - My Blog is here 👉 [BLOG](https://notion-blog-ieunune.vercel.app)
 
 **`💼 Experience`**
