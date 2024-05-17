@@ -24,11 +24,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
-**`📊 Tracking Coding Time: Since. 2023.08.04`**  
+**`📊 Coding Time: Since. 2023.08.04`**  
 
 [![wakatime](https://wakatime.com/badge/user/099dd627-fdab-4072-b87a-fa91c7a76d8d.svg?style=for-the-badge)](https://wakatime.com/@099dd627-fdab-4072-b87a-fa91c7a76d8d)
 
-**`📊 Weekly Tracking Coding Time: Statistics for the Last 7 Days`**
+**`📊 Weekly Coding Time: Last 7 Days`**
 
 <!--START_SECTION:waka-->
 
