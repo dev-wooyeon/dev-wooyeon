@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java               2 hrs 27 mins   ██████████████████████░░░   88.48 %
+Other              15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+Python             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Shell Script       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
