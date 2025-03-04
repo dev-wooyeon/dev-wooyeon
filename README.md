@@ -3,7 +3,7 @@
 
 
 ## 경험
-- Monolith : BackEnd Developer (Apr 2023 ~ now)
+- Monolith : Backend Developer (Apr 2023 ~ now)
 - Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)
 
 ## 기술
