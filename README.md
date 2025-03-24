@@ -11,7 +11,7 @@
 
 ## 정보
 - 블로그 : [Notion](https://notion-blog-ieunune.vercel.app)
-- 이력서 : [Notion](https://ieunune.notion.site/28-88178b31333b4be7b8b9821a7232e73c?pvs=4)
+- 이력서 : [Notion](https://ieunune.notion.site/1b27443f2ea08016b614ef5b59e8f1c0?pvs=4)
 - 이메일 : une@kakao.com
 
 ## 🏆 코딩력 🏆 
