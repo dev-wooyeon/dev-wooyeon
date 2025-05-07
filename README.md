@@ -24,11 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java           2 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.38 %
-Other          1 hr 35 mins    ██████████▒░░░░░░░░░░░░░░   41.29 %
-textmate       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-JavaScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
