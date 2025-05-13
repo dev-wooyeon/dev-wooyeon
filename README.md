@@ -28,11 +28,11 @@ Eximbay  : Software Developer (Dec 2019 ~ Mar 2023)
 <!--START_SECTION:waka-->
 
 ```txt
-Java           8 hrs 56 mins   █████████████████████░░░░   83.54 %
-Other          1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-JavaScript     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Docker         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-YAML           10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Java           14 hrs 33 mins  ██████████████████████░░░   88.27 %
+Other          1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+JavaScript     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+YAML           11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Docker         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
