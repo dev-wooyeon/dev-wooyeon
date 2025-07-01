@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java       1 hr 16 mins    ███████████████████████▓░   95.32 %
-Groovy     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
