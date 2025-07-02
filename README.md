@@ -33,7 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java           1 hr 40 mins    █████████████████▒░░░░░░░   69.98 %
+Groovy         34 mins         ██████░░░░░░░░░░░░░░░░░░░   24.09 %
+YAML           5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+Other          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
