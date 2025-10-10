@@ -33,11 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java           44 mins         ███████████████▓░░░░░░░░░   63.09 %
-Kotlin         17 mins         ██████░░░░░░░░░░░░░░░░░░░   24.21 %
-TypeScript     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-textmate       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
