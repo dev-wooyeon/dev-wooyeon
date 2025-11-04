@@ -19,8 +19,8 @@
 - 특히 단순/루틴 운영 업무를 자동화하여 주당 2시간 이상 효율화를 하여 동료들의 퇴근을 앞당길 때 즐거움을 느꼈습니다.
 - 400만건 이상의 영중소 사업자 데이터 처리를 설계하여 당연하게도 한 건의 누락도 없이 차액정산을 완료하였습니다.
 
-## More info
-- 블로그 : [Notion](https://notion-blog-ieunune.vercel.app)
+## More info 
+- 블로그 : [Notion](https://ieunune.notion.site/velog-573ade80268f45aeae75b09c5b86ac02)
 - 이메일 : une@kakao.com
 
 ## Coding Power
