@@ -22,7 +22,7 @@
 약 400만 건 규모의 영중소 사업자 데이터를 누락 없이 정산하도록 설계하여 데이터 정확성과 검증 절차의 중요성을 몸으로 배웠습니다.  
 
 ## More info 
-블로그 : [velog](https://ieunune.notion.site/velog-573ade80268f45aeae75b09c5b86ac02)  
+블로그 : [Notion Wiki](https://ieunune.notion.site/velog-573ade80268f45aeae75b09c5b86ac02)  
 이메일 : une@kakao.com
 
 ## Coding Power
