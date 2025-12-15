@@ -25,9 +25,6 @@
 **Release** [velog.io](https://velog.io/@ieunune)  
 **Drafts** [notion.site](https://ieunune.notion.site/velog-573ade80268f45aeae75b09c5b86ac02)  
 
-## Contact
-<<<< here
-
 ## Main Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,github,aws,grafana&theme=dark)](https://skillicons.dev)
 
