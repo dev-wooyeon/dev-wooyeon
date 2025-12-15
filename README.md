@@ -21,9 +21,15 @@
 특히 단순/루틴 운영 업무를 자동화하여 주당 2시간 이상 효율화를 하여 동료들의 퇴근을 단축했습니다.  
 약 400만 건 규모의 영중소 사업자 데이터를 누락 없이 정산하도록 설계하여 데이터 정확성과 검증 절차의 중요성을 몸으로 배웠습니다.  
 
-## More info 
-블로그 : [Notion](https://ieunune.notion.site/velog-573ade80268f45aeae75b09c5b86ac02)  
-이메일 : une@kakao.com
+## More Info 
+**Release** [velog.io](https://velog.io/@ieunune)  
+**Drafts** [notion.site](https://ieunune.notion.site/velog-573ade80268f45aeae75b09c5b86ac02)  
+
+## Contact
+<<<< here
+
+## Main Skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,github,aws,grafana&theme=dark)](https://skillicons.dev)
 
 ## Coding Power
 통합 코딩력(2023.08.04~)
