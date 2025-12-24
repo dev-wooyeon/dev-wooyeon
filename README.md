@@ -1,7 +1,6 @@
 ## Hello
 
-대규모 이벤트·센서·트랜잭션 데이터가 흐르는 환경에서 
-데이터 구조와 처리 방식이 시스템 안정성에 미치는 영향을 중심으로 문제를 해결해온 엔지니어, [박은우](https://dev-wooyeon.github.io/quiz-app/)입니다.  
+데이터 구조와 처리 방식이 시스템 안정성에 미치는 영향을 중심으로 문제를 해결해온 엔지니어 [박은우](https://dev-wooyeon.github.io/quiz-app/)입니다.  
 
 
 ## Work Experience.
