@@ -33,8 +33,10 @@ https://velog.io/@ieunune
 문제 정의, 실험, 학습 과정을 기록하는 개인 노트  
 [https://ieunune.notion.site](https://ieunune.notion.site/velog-573ade80268f45aeae75b09c5b86ac02)
 
+<!--
 ## Main Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,github,aws,grafana&theme=dark)](https://skillicons.dev)
+-->
 
 ## Coding Power
 통합 코딩력(2023.08.04~)
