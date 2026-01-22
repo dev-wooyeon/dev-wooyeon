@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # # content
-          # BLOCKS: "░▒▓█"
+          BLOCKS: "▏▎▍▌▋▊▉█"
           # LOCALE: "ko"
           # SHOW_TOTAL_CODE_TIME: "False"
           # SHOW_UPDATED_DATE: "False"
