@@ -16,3 +16,6 @@ Gradle           10 mins               ▓░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+### Contributed
+- wavetermdev/waveterm 문서 번역 기여 [PR #2943](https://github.com/wavetermdev/waveterm/pull/2943)
