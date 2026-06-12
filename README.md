@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  8 hrs 28 mins         ███████████▓░░░░░░░░░░░░░   46.99 %
-Markdown              3 hrs 28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
-HTTP Request          1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Other                 1 hr                  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
-Git Config            41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Java                  6 hrs 46 mins         ████████▓░░░░░░░░░░░░░░░░   34.59 %
+Markdown              6 hrs 17 mins         ████████░░░░░░░░░░░░░░░░░   32.13 %
+HTTP Request          1 hr 9 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Git Config            41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+TypeScript            37 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
