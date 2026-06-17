@@ -8,9 +8,6 @@
 ## Main Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,github,aws,grafana&theme=dark)](https://skillicons.dev)
 
-## Contributed
-- wavetermdev/waveterm 문서 번역 기여 [PR #2943](https://github.com/wavetermdev/waveterm/pull/2943)
-
 ## Coding Power
 통합 코딩력(2023.08.04~)
 
