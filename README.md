@@ -35,6 +35,8 @@
     <span>Tech</span>
     <br>
     <!-- NOTES_START -->
+    <a href="https://ark-log.vercel.app/blog/chakchak-build-retrospective">포켓몬 빵 하나에서 시작해 띠부씰 서비스를 만들기까지</a> <sub>26.08.12</sub>
+    <br>
     <a href="https://ark-log.vercel.app/blog/llm-wiki-build-retrospective">LLM Wiki 구축기: 답변을 검증된 지식으로 옮기기</a> <sub>26.06.19</sub>
     <br>
     <a href="https://ark-log.vercel.app/blog/ai-workflow-after-100m-tokens">월 1억 토큰을 쓰고 나서야 보인 AI 활용법</a> <sub>26.05.12</sub>
@@ -42,8 +44,6 @@
     <a href="https://ark-log.vercel.app/blog/ai-skills-workflow">Git Flow 반복 작업을 AI Skill로 줄인 과정</a> <sub>26.04.28</sub>
     <br>
     <a href="https://ark-log.vercel.app/blog/db-outage-analysis-retrospective">DB 장애 분석 회고</a> <sub>26.03.23</sub>
-    <br>
-    <a href="https://ark-log.vercel.app/blog/ai-wild-learning-style">AI 시대의 학습 루프: 먼저 만들고 다시 검증하기</a> <sub>26.03.11</sub>
     <!-- NOTES_END -->
   </samp>
 </div>
