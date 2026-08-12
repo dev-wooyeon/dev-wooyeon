@@ -1,0 +1,33 @@
+name: Recent Posts
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recent-posts
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/update-recent-posts.mjs --test
+      - run: node scripts/update-recent-posts.mjs
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md; then
+            exit 0
+          fi
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add README.md
+          git commit -m "chore(readme): update recent posts"
+          git push
