@@ -21,6 +21,8 @@
     <span>Life</span>
     <br>
     <!-- INSIGHT_START -->
+    <a href="https://ark-log.vercel.app/blog/what-mature-people-know">성숙해 보이는 사람은 무엇을 알고 있을까</a> <sub>26.08.13</sub>
+    <br>
     <a href="https://ark-log.vercel.app/blog/%EB%A7%90%ED%95%98%EB%8A%94-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0-%EA%B2%83-%EA%B0%99%EC%95%98%EB%8B%A4">말을 잘하고 싶다.</a> <sub>26.07.24</sub>
     <br>
     <a href="https://ark-log.vercel.app/blog/learning-ai-made-me-need-a-brush-pen">AI를 배울수록 붓펜이 필요했다</a> <sub>26.07.03</sub>
@@ -28,8 +30,6 @@
     <a href="https://ark-log.vercel.app/blog/rescene-reverse-run-and-effort">‘거제 야호’로부터 배운 리센느 역주행의 진짜 본질</a> <sub>26.06.12</sub>
     <br>
     <a href="https://ark-log.vercel.app/blog/seven-missed-calls">부재중 전화 일곱 통</a> <sub>26.03.16</sub>
-    <br>
-    <a href="https://ark-log.vercel.app/blog/vietnam-travel">베트남 4박 5일 여행 기록: 다낭과 호이안</a> <sub>26.02.05</sub>
     <!-- INSIGHT_END -->
     <br><br>
     <span>Tech</span>
