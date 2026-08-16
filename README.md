@@ -62,3 +62,14 @@
     <span>Payment Operations Platform</span>
   </samp>
 </div>
+
+<br><br>
+
+<div>
+  <samp>
+    <p><b>Side Project</b></p>
+    <span>도감 관리 서비스</span> <sub>26.07 ~ present</sub>
+    <br>
+    <span><a href="https://ddibu-chakchak.vercel.app">chakchak</a> </span>
+  </samp>
+</div>
